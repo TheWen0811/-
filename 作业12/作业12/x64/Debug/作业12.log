@@ -1,0 +1,19 @@
+﻿  作业12.cpp
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(190,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(177,1): message : 在编译 类 模板 成员函数“void BuildTree<char>::PoTraversal(void)”时
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(199,18): message : 查看对正在编译的函数 模板 实例化“void BuildTree<char>::PoTraversal(void)”的引用
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(196,18): message : 查看对正在编译的 类 模板 实例化“BuildTree<char>”的引用
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(130,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(117,1): message : 在编译 类 模板 成员函数“void BuildTree<char>::ToPoClueBuildTreeAssist(BuildTreeNode<T> *&,std::string &)”时
+          with
+          [
+              T=char
+          ]
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(172,25): message : 查看对正在编译的函数 模板 实例化“void BuildTree<char>::ToPoClueBuildTreeAssist(BuildTreeNode<T> *&,std::string &)”的引用
+          with
+          [
+              T=char
+          ]
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(38,1): message : 在编译 类 模板 成员函数“BuildTree<char>::BuildTree(void)”时
+E:\Users\DELL\source\repos\作业12\作业12\作业12.cpp(196,18): message : 查看对正在编译的函数 模板 实例化“BuildTree<char>::BuildTree(void)”的引用
+  作业12.vcxproj -> E:\Users\DELL\source\repos\作业12\x64\Debug\作业12.exe

@@ -1,0 +1,6 @@
+﻿  实验四2.cpp
+E:\Users\DELL\source\repos\实验四2\实验四2\实验四2.cpp(151,13): error C2106: “=”: 左操作数必须为左值
+E:\Users\DELL\source\repos\实验四2\实验四2\实验四2.cpp(144,1): message : 在编译 类 模板 成员函数“void Double_LoopLinkList<int>::ReverseDouble_LoopList(Double_LoopLinkList<int> &)”时
+E:\Users\DELL\source\repos\实验四2\实验四2\实验四2.cpp(163,32): message : 查看对正在编译的函数 模板 实例化“void Double_LoopLinkList<int>::ReverseDouble_LoopList(Double_LoopLinkList<int> &)”的引用
+E:\Users\DELL\source\repos\实验四2\实验四2\实验四2.cpp(160,30): message : 查看对正在编译的 类 模板 实例化“Double_LoopLinkList<int>”的引用
+E:\Users\DELL\source\repos\实验四2\实验四2\实验四2.cpp(152,13): error C2106: “=”: 左操作数必须为左值

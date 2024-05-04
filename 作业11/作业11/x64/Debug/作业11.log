@@ -1,0 +1,3 @@
+﻿  作业11.cpp
+E:\Users\DELL\source\repos\作业11\作业11\作业11.cpp(54,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  作业11.vcxproj -> E:\Users\DELL\source\repos\作业11\x64\Debug\作业11.exe

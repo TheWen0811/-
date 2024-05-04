@@ -1,0 +1,3 @@
+﻿  生日.cpp
+E:\Users\DELL\source\repos\生日\生日\生日.cpp(5,12): warning C4309: “初始化”: 截断常量值
+  生日.vcxproj -> E:\Users\DELL\source\repos\生日\x64\Debug\生日.exe

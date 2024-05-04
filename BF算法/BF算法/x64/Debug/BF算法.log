@@ -1,0 +1,4 @@
+﻿  BF算法.cpp
+E:\Users\DELL\source\repos\BF算法\BF算法\BF算法.cpp(4,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\DELL\source\repos\BF算法\BF算法\BF算法.cpp(5,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BF算法.vcxproj -> E:\Users\DELL\source\repos\BF算法\x64\Debug\BF算法.exe

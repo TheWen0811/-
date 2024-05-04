@@ -1,0 +1,3 @@
+﻿  栈.cpp
+E:\Users\DELL\source\repos\栈\栈\栈.cpp(31): warning C4715: “stack<int>::push”: 不是所有的控件路径都返回值
+  栈.vcxproj -> E:\Users\DELL\source\repos\栈\x64\Debug\栈.exe

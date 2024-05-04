@@ -1,0 +1,1 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets(49,5): error MSB8037: 找不到适用于桌面 C++ x64 应用的 Windows SDK 版本 10.0.22000.0。请安装所需版本的 Windows SDK，或者在项目属性页中或通过右键单击解决方案并选择“重定解决方案目标”来更改 SDK 版本。
